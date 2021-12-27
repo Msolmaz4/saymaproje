@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+.cevre{
+    border: 2px solid white;
+    width: auto;
+    height: 500px;
+}
+.oyun{
+    
+    margin-top: 50px;
+    text-align: center;
+}
+#girisler{
+width: 250px;
+margin: auto;
+position: relative;
+}
+.alttaraf{
+    margin: auto;
+    position: relative;
+    text-align: center;
+}
